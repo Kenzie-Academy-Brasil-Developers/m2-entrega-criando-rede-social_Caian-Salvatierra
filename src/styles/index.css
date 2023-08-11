@@ -203,6 +203,7 @@ main{
     border-radius: 5px;
     background: var(--grey-1);
     color: var(--whiteFixed);
+    cursor: pointer;
 }
 
 .button__container{
