@@ -85,8 +85,9 @@ mark,
 audio,
 video,
 button,
-input,
-textarea {
+input ,textarea
+ {
+  resize: none;
   margin: 0;
   padding: 0;
   border: 0;

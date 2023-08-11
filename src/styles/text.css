@@ -1,0 +1,35 @@
+:root{
+    --tamanho--title1:1.75rem;
+    --tamanho--title2:1.25rem;
+
+    --tamanho--text1: 1rem;
+    --tamanho--text2:0.875rem;
+    --tamanho--text3:0.75rem;
+
+    --font-weight--title1:700;
+    --font-weight--title2:600;
+    --font-weight--text:400;
+    --font-weight--button:600;
+
+    --line-height--title1:2.5rem;
+    --line-height--title2:1.5rem;
+    --line-height--text1:1.75rem;
+    --line-height--text2:1rem;
+    --line-height--text3:1rem;
+
+
+    /* Buttons */
+
+
+}
+
+
+body{
+    font-family:'Inter';
+}
+
+.text2--bold{
+    font-size: var(--tamanho--text2);
+    font-weight: var(--font-weight--button);
+    
+}

@@ -49,7 +49,7 @@ export const posts = [
     text: "Em Segurança da Informação, as vagas são destinadas às áreas de Security Operations Center (SOC), Administração de Dispositivos de Segurança (ADS), Resposta a Incidentes (RI), Segurança e Privacidade e Consultoria Técnica. O candidato interessado deverá estar matriculado em um curso superior em Ciência da Computação, Segurança da Informação, Tecnologia da Informação e afins, com previsão de conclusão do curso de fevereiro de 2023 a fevereiro de 2025.",
     user: "Carla Maria",
     stack: "Back end Engineer",
-    img: "./src/assets/img/user4.svg",
+    img: "./src/assets/img/user6.svg",
     likes: 19
   },
   {
